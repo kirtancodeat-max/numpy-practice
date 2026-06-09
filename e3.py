@@ -4,5 +4,5 @@
 a = 5          #  first number
 b = 3          #  second number
 sum = a + b    # Add the two numbers
-print(sum)     # Display the result
+print("The sum is:", sum)     # Display the result
 
